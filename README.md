@@ -68,6 +68,6 @@ I am actively looking to collaborate on data-driven projects and contribute to t
 
 📧 [Email] sharma.nalini03@gmail.com
 🔗 [LinkedIn] https://www.linkedin.com/in/nalinisharma25
-🧠 Currently building my [GitHub Portfolio](https://https://github.com/nalini25s
+🧠 Currently building my [GitHub Portfolio] https://github.com/nalini25s
 
  *"Whether it’s a product, a process, or a pattern in data — everything has a story. I am here to discover it and help others see it too."*
